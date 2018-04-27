@@ -6,8 +6,7 @@ Data from and code to analyze Ivy League universities' coverage of the 1968 Colu
 
 <strong>Notes</strong>: 
 <li>Source links included in CSV file</li>
-<li></li>
-
+<br>
 This data has been used in the following stories:
 
 - 
